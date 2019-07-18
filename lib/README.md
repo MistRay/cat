@@ -31,6 +31,7 @@ And the following programming languages are in our plan:
 * Metric
 
 ### Message properties
+_'name' and' type' can't use Chinese, otherwise there will be a Garbled problem_
 
 * type
 
